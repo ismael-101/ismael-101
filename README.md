@@ -5,7 +5,7 @@
 <!-- Cat Image -->
 <img align="right" height="150" src="./cat.gif" />
 
-# Hi there! 👋
+<h1 style="text-decoration: none;">Hi there! 👋</h1>   
 
 ### I'm Ismael, a passionate full-stack developer based in Germany.
 <br/>
