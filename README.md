@@ -3,9 +3,9 @@
 <!-- <br clear="both" /> -->
 
 <!-- Cat Image -->
-
-# Hi there! 👋
 <img align="right" height="150" src="./cat.gif" />
+<br/>
+# Hi there! 👋
 
 ### I'm Ismael, a passionate full-stack developer based in Germany.
 <br/>
