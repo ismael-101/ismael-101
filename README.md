@@ -1,5 +1,5 @@
 <!-- Profile Views Counter -->
-![My Profile Views](https://my-counter.onrender.com/counter/my-username)
+![My Profile Views](https://github-counter.dev-7fb.workers.dev//counter/my-username)
 <!-- <br clear="both" /> -->
 
 <!-- Cat Image -->
