@@ -1,6 +1,6 @@
 <!-- Profile Views Counter -->
 <img align="right" src="https://profile-counter.glitch.me/ismael-101/count.svg?" />
-<br clear="both" />
+<!-- <br clear="both" /> -->
 
 <!-- Cat Image -->
 <img align="right" height="150" src="./cat.gif" />
