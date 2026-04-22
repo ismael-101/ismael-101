@@ -1,5 +1,5 @@
 <!-- Profile Views Counter -->
-<img align="right" src="https://profile-counter.glitch.me/ismael-101/count.svg?" />
+![My Profile Views](https://my-counter.onrender.com/counter/my-username)
 <!-- <br clear="both" /> -->
 
 <!-- Cat Image -->
